@@ -1,0 +1,19 @@
+p{
+    /*tamaño de letras*/
+    font-size:  1.2rem;
+    font-family: arial;
+    /*color del texto*/
+    color:#f4f7f2;
+}
+/*body p{*/
+    /*mover imagenes*/
+   /* height: 300px;*/
+/*}*/
+h1{
+    color:#f4f7f2;   
+}
+li a{
+    font-size:  1.2rem;
+    font-family: arial;
+    color:#f4f7f2;
+}
